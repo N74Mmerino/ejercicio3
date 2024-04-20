@@ -5,8 +5,8 @@
 $n1 = $_GET['n1'];
 $n2 = $_GET['n2'];
 $resultado = $n1+$n2;
-echo 'numero 1 ='.$n1;
-echo "<br>";
-echo 'numero 2 ='.$n2;
-echo "<br>";
-echo 'La suma del número [numero1] y del número [numero2] es igual a = '.$resultado;
+
+
+echo 'La suma del número '.$n1.' y del número '.$n2.' es igual a '.$resultado;
+
+
